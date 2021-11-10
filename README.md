@@ -7,3 +7,8 @@
 5)  create plots
 6)  interpret results
 7)  create slides
+
+Wednesday: To Do
+1) paste together jupyter notebook
+2) upload plots to slides, along with text describing trends
+3) figure out who will talk about what during the presentation
